@@ -2,13 +2,13 @@
 logs from model Clasify ballpoint, eraser, and ruler images
 
 ## R
-,,,
+```R
 library keras
 tensorboard('logs')# or logs location
-,,,
+```
 ## python
-,,,
+```python
 tensorboard --logdir=path/to/log-directory
-,,,
+```
+you can follow [my blogs](http://thinkstudioo.blogspot.co.id/) about this repo 
 
-you can follow my blogs about this repo [GitHub Pages](http://thinkstudioo.blogspot.co.id/)
